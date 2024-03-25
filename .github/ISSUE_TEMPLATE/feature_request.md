@@ -1,21 +1,19 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'Feature Request: '
 labels: ''
 assignees: ''
 
 ---
 
-**Software**
+**Software:**
 
-**Please describe the issue or annoyance the proposed feature could fix.**
-
-
-**Describe the solution you'd like**
+**Please describe the issue or annoyance the proposed feature could fix:**
 
 
-**Describe alternatives you've considered**
+**Describe the solution you'd like:**
 
 
-**Additional context**
+
+**Additional context:**
